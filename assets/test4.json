@@ -1,0 +1,16 @@
+[
+  {
+    "pointCloudUrl":"./assets/tiles/t100_2024-05-06-17-00-25_re/colormap/metadata.json",
+    "cameraUrl":"./assets/tiles/t100_2024-05-06-17-00-25_re/Photo/camera.txt",
+    "PanoramicPath":"./assets/tiles/t100_2024-05-06-17-00-25_re/Photo",
+    "degree":"6",
+    "coord":[456372.600, 4419997.872, 28.303]
+  },
+  {
+    "pointCloudUrl":"./assets/tiles/wcz/colormap/metadata.json",
+    "cameraUrl":"./assets/tiles/wcz/Photo/camera.txt",
+    "PanoramicPath":"./assets/tiles/wcz/Photo",
+    "degree":"6",
+    "coord":[456810.7219594482, 4419971.6421306515, 28.303]
+  }
+]
