@@ -1,0 +1,25 @@
+[
+  {
+    "projectName":"测试项目",
+    "pointCloudUrl":"http://data.cc/20240705/colormap/metadata.json",
+    "cameraUrl":"http://data.cc/20240705/Photo/camera.txt",
+    "PanoramicPath":"http://data.cc/20240705/Photo",
+    "degree":"6",
+    "coord":[456210.8060256195, 4420033.504255269, 28.303],
+    "lang":"zh"
+  },
+  {
+    "pointCloudUrl":"http://data.cc/wcz/colormap/metadata.json",
+    "cameraUrl":"http://data.cc/wcz/Photo/camera.txt",
+    "PanoramicPath":"http://data.cc/wcz/Photo",
+    "degree":"6",
+    "coord":[456810.7219594482, 4419971.6421306515, 28.303]
+  },
+  {
+    "pointCloudUrl":"http://data.cc/t100_2024-05-06-17-00-25_re/colormap/metadata.json",
+    "cameraUrl":"http://data.cc/t100_2024-05-06-17-00-25_re/Photo/camera.txt",
+    "PanoramicPath":"http://data.cc/t100_2024-05-06-17-00-25_re/Photo",
+    "degree":"6",
+    "coord":[456372.600, 4419997.872, 28.303]
+  }
+]

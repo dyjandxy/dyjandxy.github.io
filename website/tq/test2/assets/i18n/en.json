@@ -1,0 +1,66 @@
+{
+  "lang": {
+    "中文": "中文",
+    "英文": "english",
+    "俄文": "russian"
+  },
+  "leftMenu": {
+    "项目": "project",
+    "总览图": "overView Map",
+    "扫描视图": "scanView",
+    "项目内容": "project content",
+    "设置": "settings",
+    "扫描视图测量及功能": "measurement",
+    "扫描视图显隐及删除": "delete",
+    "设置常规": "general",
+    "设置总览图": "overView Map",
+    "设置扫描视图": "scanView"
+  },
+  "projects": {
+    "查找项目": "Find Project...",
+    "预览": "Preview",
+    "项目名称": "Project name",
+    "扫描": "Scan",
+    "位置": "position",
+    "视图": "view",
+    "扫描次数": "scans number",
+    "记录时间": "recording time",
+    "修改时间": "update time",
+    "面向北方": "Face north",
+    "关键词": "keyword"
+  },
+  "scanView": {
+    "测量点": "Measuring point",
+    "测量距离": "Measuring distance",
+    "测量面积": "Measuring area",
+    "测量高度": "Measuring height",
+    "测量角度": "Measuring Angle",
+    "设置点云透明度": "pointCloud transparent",
+    "立体裁剪": "Three-dimensional cutting",
+    "切换第一人称视角": "first person perspective",
+    "切换第三人称视角": "third person perspective",
+    "返回": "Back",
+    "点": "point",
+    "距离": "distance",
+    "面积": "area",
+    "高度": "height",
+    "角度": "angle",
+    "高度剖切": "profile"
+  },
+  "projectName": {
+    "扫描": "scan",
+    "注解": "annotation",
+    "名称": "name",
+    "类型": "type",
+    "预览": "Preview",
+    "日期": "date",
+    "x": "x",
+    "y": "y",
+    "z": "z",
+    "类别": "category",
+    "标记": "Markers",
+    "视图": "view",
+    "排序方式": "sort mode",
+    "查找": "find..."
+  }
+}
