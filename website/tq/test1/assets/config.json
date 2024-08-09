@@ -1,0 +1,9 @@
+{
+  "projectName":"测试项目",
+  "pointCloudUrl":"http://data.cc/20240705/colormap/metadata.json",
+  "cameraUrl":"http://data.cc/20240705/Photo/camera.txt",
+  "PanoramicPath":"http://data.cc/20240705/Photo",
+  "degree":"6",
+  "coord":[456372.600, 4419997.872, 28.303],
+  "lang":"zh"
+}
